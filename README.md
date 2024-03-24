@@ -1,8 +1,8 @@
 # koronaEbola.github.io
 
-<img src="feedback-cycle.png"/>
-
 <img src="self-driving-2.png"/>
+
+<img src="feedback-cycle.png"/>
 
 https://latticeautomation.com
 
