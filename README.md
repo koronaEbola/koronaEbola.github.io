@@ -8,4 +8,4 @@ https://www.collaborationspharma.com/
 
 https://protocol.ai
 
-https://nanome.ai/
+https://nanome.ai
